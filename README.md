@@ -6,6 +6,8 @@
 
 编辑器主题: **Monokai Pro**
 
+微信小程序标签、属性的智能补全 **minapp**
+
 ## 工具链接
 
 [颜色转换工具](http://www.yuangongju.com/color "空")
